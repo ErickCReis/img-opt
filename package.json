@@ -1,6 +1,6 @@
 {
   "name": "@erickreis/img-opt",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Simple CLI to optimize SVG and PNG assets in web applications.",
   "keywords": [
     "assets",
