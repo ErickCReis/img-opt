@@ -9,7 +9,7 @@ const helpText = `img-opt
 Optimize SVG and PNG assets for a web application.
 
 Usage:
-  npx @erickcreis/img-opt <path> [options]
+  npx @erickreis/img-opt <path> [options]
 
 Arguments:
   <path>                  Path to the assets directory to optimize.

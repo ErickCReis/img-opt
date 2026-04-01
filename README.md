@@ -1,11 +1,11 @@
-# `@erickcreis/img-opt`
+# `@erickreis/img-opt`
 
 Simple CLI to optimize SVG and PNG assets in a web app.
 
 ## Usage
 
 ```bash
-npx @erickcreis/img-opt src/assets
+npx @erickreis/img-opt src/assets
 ```
 
 By default the command:
@@ -19,7 +19,7 @@ By default the command:
 ## Options
 
 ```bash
-npx @erickcreis/img-opt <path> [options]
+npx @erickreis/img-opt <path> [options]
 
 Options:
   -s, --source-dir <dir>  Directory to scan for source-file references
