@@ -12,6 +12,10 @@
     "webp"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickCReis/img-opt.git"
+  },
   "bin": {
     "@erickreis/img-opt": "./dist/cli.js",
     "img-opt": "./dist/cli.js"
