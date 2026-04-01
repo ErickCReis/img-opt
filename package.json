@@ -1,5 +1,5 @@
 {
-  "name": "@erickcreis/img-opt",
+  "name": "@erickreis/img-opt",
   "version": "0.1.1",
   "description": "Simple CLI to optimize SVG and PNG assets in web applications.",
   "keywords": [
@@ -13,7 +13,7 @@
   ],
   "license": "MIT",
   "bin": {
-    "@erickcreis/img-opt": "./dist/cli.js",
+    "@erickreis/img-opt": "./dist/cli.js",
     "img-opt": "./dist/cli.js"
   },
   "files": [
